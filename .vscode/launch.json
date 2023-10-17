@@ -9,6 +9,13 @@
             "name": "MyData",
             "request": "launch",
             "mainClass": "MyData",
+            "projectName": "pp3_ca4a7451"
+        },
+        {
+            "type": "java",
+            "name": "MyData",
+            "request": "launch",
+            "mainClass": "MyData",
             "projectName": "pp3_b5e8e6b7"
         },
         {
