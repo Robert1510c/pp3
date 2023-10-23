@@ -3,6 +3,6 @@ public class Height {
         int height = 179;
         int feet = (int)(height / 30.48);
         int inches =(int)((height % 30.48)/ 2.54);
-        System.out.println("Height in cm: "+height+"."+"Height in feet and inches: "+ feet+"'"+inches);
+        System.out.println("Height in cm: "+height+".\n"+"Height in feet and inches: "+ feet+"'"+inches);
     }
 }
